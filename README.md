@@ -15,11 +15,11 @@ How to use it:
    ![Снимок экрана 2023-08-17 в 10 31 32](https://github.com/sadnessReigns/pobupdatescript/assets/34507247/5a980123-1865-4959-b682-81462006812e)
 
 What script does:
-0. Removes any currently existing PoB from applications folder
-1. Downloads .zip file from the link you copied
-2. unzips it
-3. moves PoB application into applications folder
-4. fixes an issue that doesn't allow you to run the app
+1. Removes any currently existing PoB from applications folder
+2. Downloads .zip file from the link you copied
+3. unzips it
+4. moves PoB application into applications folder
+5. fixes an issue that doesn't allow you to run the app
    - Script has an option to open PoB right after it finishes all operations, just add "-open" after script call:
 ![Снимок экрана 2023-08-17 в 10 35 22](https://github.com/sadnessReigns/pobupdatescript/assets/34507247/281b4443-529d-45b0-bc59-acd15e12c14e)
 
