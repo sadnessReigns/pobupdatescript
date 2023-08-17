@@ -24,6 +24,7 @@ echo "fixed PoB"
 
 rm -rf $downloadspath"__MACOSX"
 rm -rf $zippath
+rm -rf main
 
 arg=$1
 if [ $arg == "-open" ]
